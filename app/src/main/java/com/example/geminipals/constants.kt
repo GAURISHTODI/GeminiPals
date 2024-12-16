@@ -2,5 +2,5 @@ package com.example.geminipals
 
 object constants {
 
-    val apikey= "AIzaSyDN9bVX_AqgTh1L3l6jQdhR4X8tHIrdTJo"
+    val apikey= // I have removed the official API key from here due to safety reasons.
 }
